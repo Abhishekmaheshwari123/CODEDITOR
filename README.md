@@ -32,7 +32,7 @@ During competitive programming, testing multiple test cases manually can be time
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/codecompiler.git
+git clone https://github.com/Abhishekmaheshwari123/codecompiler.git
 
 # Navigate to the directory
 cd codecompiler
